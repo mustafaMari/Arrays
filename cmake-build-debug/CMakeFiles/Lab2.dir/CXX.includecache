@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mufasa/OneDrive/Documents/GitHub/School Projects/C++/Lab2/CTable.cpp
+CTable.h
+C:/Users/Mufasa/OneDrive/Documents/GitHub/School Projects/C++/Lab2/CTable.h
+
+C:/Users/Mufasa/OneDrive/Documents/GitHub/School Projects/C++/Lab2/CTable.h
+iostream
+-
+
+C:/Users/Mufasa/OneDrive/Documents/GitHub/School Projects/C++/Lab2/main.cpp
+iostream
+-
+iostream
+-
+CTable.h
+C:/Users/Mufasa/OneDrive/Documents/GitHub/School Projects/C++/Lab2/CTable.h
+
